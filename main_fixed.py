@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+2#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Bank CSV Importer — robust, tolerant parser + CLI & non-interactive modes.
